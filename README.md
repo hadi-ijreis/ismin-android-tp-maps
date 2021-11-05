@@ -21,7 +21,7 @@ First:
 - Create a new API Key
 - Add some restriction for this key
 
-Notes: If you don't want to create a Google account as the teacher for a demo API Key
+Notes: If you don't want to create a Google account ask the teacher for a demo API Key
 
 Then: 
 - Add a layout to display the map fragment in `activity-main.xml`
